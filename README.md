@@ -22,6 +22,21 @@ Here are some of the programming languages I have worked with:
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrianalejandropadronlopez&show_icons=true&theme=dark)
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/alu0101246949/alu0101246949/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/alu0101246949/alu0101246949/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/alu0101246949/alu0101246949/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 ## 📫 Contact Me
 - ✉️ Email: [alu0101480213@ull.edu.es](mailto:alu0101480213@ull.edu.es)
 
