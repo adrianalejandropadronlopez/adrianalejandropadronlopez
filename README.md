@@ -1,4 +1,4 @@
-# 👋 Hello! I'm [Adrián Alejandro Padrón López]
+# 👋 Hello! I'm Adrián Alejandro Padrón López
 
 Welcome to my GitHub profile! I am a passionate developer with experience in multiple programming languages and technologies.
 
