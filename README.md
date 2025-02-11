@@ -20,7 +20,7 @@ Here are some of the programming languages I have worked with:
 - [![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat&logo=assemblyscript&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language)
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrianalejandropadronlopez&show_icons=true&theme=dark)
 
 ## 📫 Contact Me
 - ✉️ Email: [alu0101480213@ull.edu.es](mailto:alu0101480213@ull.edu.es)
