@@ -23,7 +23,7 @@ Here are some of the programming languages I have worked with:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrianalejandropadronlopez&show_icons=true&theme=dark)
 
 ## 🏆 Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adrianalejandropadronlopez" alt="adrianalejandropadronlopez" /></a> </p>
+[![Trophy](https://github-profile-trophy.vercel.app/?username=adrianalejandropadronlopez&margin-w=5&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 <picture>
   <source
